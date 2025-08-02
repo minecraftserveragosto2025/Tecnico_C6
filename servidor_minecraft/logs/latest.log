@@ -114,3 +114,17 @@
 [22:07:57] [Server thread/INFO]: Villager Villager['Villager'/192, uuid='96d6d606-edff-4cd5-9c19-efebfc13de47', l='ServerLevel[world]', x=146.12, y=60.00, z=552.70, cpos=[9, 34], tl=14868, v=true] died, message: 'Villager was squished too much'
 [22:07:59] [Server thread/INFO]: Villager Villager['Villager'/202, uuid='b1342bb6-9047-42f2-83a0-ac186bf75888', l='ServerLevel[world]', x=146.22, y=60.00, z=552.70, cpos=[9, 34], tl=14906, v=true] died, message: 'Villager was squished too much'
 [22:20:00] [Server thread/INFO]: DylanTag24 has made the advancement [Oh Shiny]
+[22:29:28] [Server thread/INFO]: DylanTag24 lost connection: Disconnected
+[22:29:28] [Server thread/INFO]: DylanTag24 left the game
+[22:29:36] [User Authenticator #1/INFO]: UUID of player DylanTag24 is bd13f4d4-57b4-33f9-8a4a-d7b962eacb62
+[22:29:36] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d0e15116-be89-4f93-a6c4-6b341b419a9e, mapped to ThrownEnderpearl['Thrown Ender Pearl'/5194, uuid='d0e15116-be89-4f93-a6c4-6b341b419a9e', l='ServerLevel[world]', x=67.33, y=61.95, z=535.45, cpos=[4, 33], tl=0, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/5195, uuid='d0e15116-be89-4f93-a6c4-6b341b419a9e', l='ServerLevel[world]', x=67.33, y=62.03, z=535.45, cpos=[4, 33], tl=0, v=false]
+[22:29:36] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[22:29:36] [Server thread/INFO]: DylanTag24 joined the game
+[22:29:36] [Server thread/INFO]: DylanTag24[/127.214.211.88:38439] logged in with entity id 5192 at ([world]148.5, 63.0, 576.5)
+[22:32:24] [User Authenticator #2/INFO]: UUID of player DylanTag24 is bd13f4d4-57b4-33f9-8a4a-d7b962eacb62
+[22:32:24] [Server thread/INFO]: DylanTag24 lost connection: You logged in from another location
+[22:32:24] [Server thread/INFO]: DylanTag24 left the game
+[22:32:25] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d0e15116-be89-4f93-a6c4-6b341b419a9e, mapped to ThrownEnderpearl['Thrown Ender Pearl'/5511, uuid='d0e15116-be89-4f93-a6c4-6b341b419a9e', l='ServerLevel[world]', x=67.33, y=61.81, z=535.45, cpos=[4, 33], tl=0, v=true], can't add ThrownEnderpearl['Thrown Ender Pearl'/5512, uuid='d0e15116-be89-4f93-a6c4-6b341b419a9e', l='ServerLevel[world]', x=67.33, y=62.03, z=535.45, cpos=[4, 33], tl=0, v=false]
+[22:32:25] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[22:32:25] [Server thread/INFO]: DylanTag24 joined the game
+[22:32:25] [Server thread/INFO]: DylanTag24[/127.214.211.88:33461] logged in with entity id 5510 at ([world_nether]6.33331290788563, 60.0, 53.65568788144816)
