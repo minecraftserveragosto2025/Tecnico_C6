@@ -116,3 +116,8 @@
 [19:10:55] [User Authenticator #1/INFO]: UUID of player DylanTag24 is bd13f4d4-57b4-33f9-8a4a-d7b962eacb62
 [19:10:55] [Server thread/INFO]: DylanTag24 joined the game
 [19:10:55] [Server thread/INFO]: DylanTag24[/127.214.211.88:38485] logged in with entity id 958 at ([world]455.06138070225006, -32.0, 695.3677450956604)
+[19:40:12] [Server thread/INFO]: DylanTag24 lost connection: Disconnected
+[19:40:12] [Server thread/INFO]: DylanTag24 left the game
+[19:40:14] [User Authenticator #2/INFO]: UUID of player DylanTag24 is bd13f4d4-57b4-33f9-8a4a-d7b962eacb62
+[19:40:15] [Server thread/INFO]: DylanTag24 joined the game
+[19:40:15] [Server thread/INFO]: DylanTag24[/127.214.211.88:51425] logged in with entity id 5287 at ([world]157.7143898543506, 63.164773281826065, 579.2188475500275)
