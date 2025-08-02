@@ -128,3 +128,4 @@
 [22:32:25] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
 [22:32:25] [Server thread/INFO]: DylanTag24 joined the game
 [22:32:25] [Server thread/INFO]: DylanTag24[/127.214.211.88:33461] logged in with entity id 5510 at ([world_nether]6.33331290788563, 60.0, 53.65568788144816)
+[22:40:16] [Server thread/INFO]: DylanTag24 issued server command: /seed
