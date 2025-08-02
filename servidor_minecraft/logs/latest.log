@@ -1,6 +1,112 @@
-[21:46:30] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[21:46:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[21:46:30] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:46:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[21:46:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[21:54:04] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[21:54:04] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[21:54:04] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:54:05] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[21:54:05] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - DHSupport (0.10.0), Geyser-Spigot (2.8.2-SNAPSHOT), SkinsRestorer (15.7.8), SmoothTimber (1.27.5), ViaBackwards (5.4.2), ViaVersion (5.4.2), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
+[21:54:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:54:17] [ServerMain/INFO]: Loaded 1407 recipes
+[21:54:17] [ServerMain/INFO]: Loaded 1520 advancements
+[21:54:17] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[21:54:18] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,105.6ms
+[21:54:18] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[21:54:18] [Server thread/INFO]: Loading properties
+[21:54:18] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[21:54:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:54:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:54:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:54:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:54:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:54:21] [Server thread/INFO]: Default game type: SURVIVAL
+[21:54:21] [Server thread/INFO]: Generating keypair
+[21:54:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:54:21] [Server thread/INFO]: Using epoll channel type
+[21:54:21] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:54:21] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[21:54:22] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[21:54:22] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[21:54:23] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:54:24] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:54:24] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[21:54:24] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[21:54:25] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[21:54:26] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[21:54:27] [Server thread/INFO]: [floodgate] Took 1,075ms to boot Floodgate
+[21:54:27] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[21:54:27] [Server thread/INFO]: [SmoothTimber] Loading server plugin SmoothTimber v1.27.5
+[21:54:27] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.2-SNAPSHOT
+[21:54:28] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[21:54:28] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[21:54:28] [Server thread/INFO]: [DHS] Loading server plugin DHSupport v0.10.0
+[21:54:28] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.8
+[21:54:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:54:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.8
+[21:54:29] [Server thread/ERROR]: [SkinsRestorer] Your Minecraft version (1.21.8) is not supported by this version of SkinsRestorer! Is there a newer version available? https://modrinth.com/plugin/skinsrestorer If not, join our Discord server!
+[21:54:29] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[21:54:29] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[21:54:29] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:54:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:54:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:54:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:54:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:54:29] [Server thread/INFO]: Preparing level "world"
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.8
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8c78340
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:54:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:54:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:54:31] [Server thread/INFO]: Preparing spawn area: 0%
+[21:54:31] [Server thread/INFO]: Preparing spawn area: 2%
+[21:54:31] [Server thread/INFO]: Preparing spawn area: 2%
+[21:54:32] [Server thread/INFO]: Preparing spawn area: 20%
+[21:54:32] [Server thread/INFO]: Preparing spawn area: 20%
+[21:54:32] [Server thread/INFO]: Time elapsed: 2080 ms
+[21:54:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[21:54:33] [Server thread/INFO]: Preparing spawn area: 22%
+[21:54:33] [Server thread/INFO]: Time elapsed: 860 ms
+[21:54:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[21:54:33] [Server thread/INFO]: Time elapsed: 248 ms
+[21:54:33] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[21:54:34] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[21:54:34] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[21:54:35] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[21:54:35] [Server thread/INFO]: [SmoothTimber] Enabling SmoothTimber v1.27.5
+[21:54:35] [Server thread/INFO]: SmoothTimber || You're currently using the untested Minecraft Version 1.21.8 (Core v1_21x)
+[21:54:35] [Server thread/INFO]: SmoothTimber || Please note that this core only officially supports 1.21.3, 1.21.4, 1.21.5, so problems may occur.
+[21:54:35] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.2-SNAPSHOT
+[21:54:37] [Server thread/INFO]: [DHS] Enabling DHSupport v0.10.0
+[21:54:37] [Server thread/INFO]: [DHS] I am DHS 0.10.0 for MC 1.21.7.
+[21:54:37] [Server thread/INFO]: [DHS] Using Paper scheduler.
+[21:54:38] [Server thread/WARN]: [DHS] Chunk generation is enabled. New chunks will be generated as needed to complete LOD generation. This could significantly increase the size of your world.
+[21:54:38] [Server thread/WARN]: [DHS] If you understand what this means and would like to disable this warning, set generate_new_chunks_warning to false in your config.
+[21:54:38] [Server thread/INFO]: [DHS] Ready!
+[21:54:38] [Server thread/INFO]: [spark] Starting background profiler...
+[21:54:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:54:39] [Server thread/INFO]: [Geyser-Spigot] 
+[21:54:39] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.2-b898 (git-master-9b04d7e)
+[21:54:39] [Server thread/INFO]: [Geyser-Spigot] 
+[21:54:39] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[21:54:45] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 3611
+[21:54:45] [Server thread/INFO]: [Geyser-Spigot] Done (6.461s)! Run /geyser help for help!
+[21:54:46] [Server thread/INFO]: Done preparing level "world" (16.248s)
+[21:54:46] [Server thread/INFO]: Running delayed init tasks
+[21:54:46] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[21:54:46] [Server thread/INFO]: Done (43.579s)! For help, type "help"
+[21:55:29] [User Authenticator #0/INFO]: UUID of player DylanTag24 is bd13f4d4-57b4-33f9-8a4a-d7b962eacb62
+[21:55:29] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[21:55:31] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d0e15116-be89-4f93-a6c4-6b341b419a9e, mapped to ThrownEnderpearl['Thrown Ender Pearl'/87, uuid='d0e15116-be89-4f93-a6c4-6b341b419a9e', l='ServerLevel[world]', x=67.33, y=62.22, z=535.45, cpos=[4, 33], tl=0, v=false], can't add ThrownEnderpearl['Thrown Ender Pearl'/88, uuid='d0e15116-be89-4f93-a6c4-6b341b419a9e', l='ServerLevel[world]', x=67.33, y=62.03, z=535.45, cpos=[4, 33], tl=0, v=false]
+[21:55:31] [Server thread/WARN]: Failed to spawn player ender pearl in level (ResourceKey[minecraft:dimension / minecraft:overworld]), skipping
+[21:55:31] [Server thread/INFO]: DylanTag24 joined the game
+[21:55:31] [Server thread/INFO]: DylanTag24[/127.214.211.88:41211] logged in with entity id 60 at ([world]132.44680327689858, 63.0, 584.9660240811315)
+[21:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
