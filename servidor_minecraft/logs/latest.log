@@ -140,3 +140,6 @@
 [20:34:50] [Netty Epoll Server IO #2/INFO]: Disconnecting DylanTag24 for sending keepalive response (6192693) out-of-order!
 [20:34:50] [Server thread/INFO]: DylanTag24 lost connection: Timed out
 [20:34:50] [Server thread/INFO]: DylanTag24 left the game
+[20:34:58] [User Authenticator #6/INFO]: UUID of player DylanTag24 is bd13f4d4-57b4-33f9-8a4a-d7b962eacb62
+[20:34:59] [Server thread/INFO]: DylanTag24 joined the game
+[20:34:59] [Server thread/INFO]: DylanTag24[/127.214.211.88:57399] logged in with entity id 19562 at ([world]71.64545213375408, 63.0, 540.7912924991117)
