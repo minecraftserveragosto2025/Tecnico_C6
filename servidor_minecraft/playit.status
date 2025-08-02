@@ -1,144 +1,3654 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1754119779580 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1754158993453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119782694 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754158996562 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119785805 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754158999675 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119788908 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159002774 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119792003 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159005880 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119795099 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159008994 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119798207 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159012101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119801307 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159015219 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119804406 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159018320 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119807506 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159021418 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119810607 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159024514 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119813714 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159027629 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119816808 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159030756 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119819915 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159033882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119823028 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159036987 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119826129 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159040101 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119829235 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159043203 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119832340 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159046317 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119835457 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159049424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119838552 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159052561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119841655 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159055662 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119844754 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159058760 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119847850 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159061862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
-[2J8[0mplayit (v0.16.2): 1754119850953 tunnel running, 2 tunnels registered
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159064972 tunnel running, 2 tunnels registered
 
 
 TUNNELS
-sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159068106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159071216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159074322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159077426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159080533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159083635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159086742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159089841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159092959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159096060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159099168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159102281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159105404 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159108519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159111625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159114730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159117829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159120949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159124055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159127154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159130260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159133374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159136482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159139583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159142683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159145790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159148901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159151996 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159155095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159158203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159161308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159164411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159167534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159170637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159173737 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159176856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159179951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159183075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159186216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159189326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159192427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159195539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159198647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159201744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159204850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159207973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159211078 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159214210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159217311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159220434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159223536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159226638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159229748 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159232852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159235958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159239080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159242185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159245303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159248407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159251509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159254619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159257742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159260845 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159263966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159267067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159270167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159273268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159276376 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159279506 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159282606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159285707 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159288810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159291937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159295041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159298153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159301265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159304380 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159307493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159310610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159313709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159316820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159319940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159323059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159326188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159329296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159332405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159335500 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159338619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159341723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159344835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159347949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159351064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159354182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159357282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159360389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159363491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159366599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159369706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159372805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159375908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159379008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159382106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159385214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159388320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159391428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159394555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159397657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159400769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159403878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159406985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159410083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159413188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159416363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159419472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159422590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159425711 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159428816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159431921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159435033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159438163 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159441296 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159444397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159447536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159450638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159453758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159456862 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159459965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159463083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159466200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159469301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159472406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159475537 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159478643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159481760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159484873 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159488014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159491134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159494270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159497370 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159500482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159503588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159506696 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159509823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159512928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159516023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159519141 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159522247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159525378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159528487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159531607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159534726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159537835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159540947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159544053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159547159 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159550264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159553374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159556472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159559599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159562695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159565803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159568906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159572018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159575114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159578214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159581317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159584418 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159587514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159590632 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159593735 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159596832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159599928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159603065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159606168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159609268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159612410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159615511 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159618629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159621725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159624833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159627954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159631060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159634162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159637260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159640361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159643467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159646573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159649669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159652769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159655880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159658988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159662096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159665219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159668339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159671440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159674539 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159677638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159680742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159683944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159687056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159690160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159693267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159696390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159699499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159702607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159705709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159708821 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159711924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159715021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159718130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159721229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159724328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159727434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159730531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159733699 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159736797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159739916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159743016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159746121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159749222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159752332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159755438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159758621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159761719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159764820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159767925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159771024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159774137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159777240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159780338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159783436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159786549 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159789651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159792766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159795872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159798970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159802074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159805167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159808268 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159811365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159814468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159817577 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159820687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159823787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159826893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159829990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159833086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159836185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159839288 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159842393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159845494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159848590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159851695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159854795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159857900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159861003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159864104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159867206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159870302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159873406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159876503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159879601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159882701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159885800 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159888901 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159892024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159895135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159898230 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159901331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159904432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159907532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159910634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159913771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159916880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159919977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159923091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159926221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159929365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159932465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159935565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159938665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159941798 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159944902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159947997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159951121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159954222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159957326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159960442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159963554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159966654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159969760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159972871 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159975979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159979135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159982248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159985353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159988472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159991573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159994679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754159997792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160000908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160004025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160007128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160010223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160013327 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160016429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160019554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160022658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160025778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160028902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160032000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160035102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160038214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160041317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160044419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160047519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160050618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160053718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160056814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160059927 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160063050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160066153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160069266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160072381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160075491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160078614 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160081737 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160084844 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160087958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160091096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160094196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160097302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160100421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160103538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160106635 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160109736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160112835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160115937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160119036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160122138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160125238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160128342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160131457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160134567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160137677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160140789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160143891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160146999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160150100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160153202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160156307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160159409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160162576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160165684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160168795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160171908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160175015 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160178139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160181244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160184346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160187454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160190569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160193678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160196796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160199907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160203017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160206118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160209239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160212335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160215430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160218533 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160221630 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160224785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160227895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160230993 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160234110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160237214 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160240317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160243446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160246545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160249651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160252756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160255858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160258953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160262074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160265182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160268293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160271410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160274524 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160277620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160280738 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160283855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160287014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160290125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160293232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160296339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160299441 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160302586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160305688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160308796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160311904 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160315012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160318153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160321264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160324366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160327461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160330589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160333692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160336791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160339893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160343000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160346101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160349218 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160352330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160355449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160358555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160361672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160364772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160367881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160370978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160374105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160377221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160380328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160383455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160386554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160389656 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160392761 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160395886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160398992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160402096 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160405202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160408311 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160411438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160414541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160417647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160420755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160423866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160426981 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160430087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160433188 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160436317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160439420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160442532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160445657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160448773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160451874 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160455003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160458105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160461222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160464342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160467440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160470571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160473717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160476835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160479954 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160483065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160486176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160489284 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160492385 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160495496 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160498599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160501702 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160504819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160507924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160511035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160514134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160517241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160520354 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160523468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160526584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160529683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160532791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160535894 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160539005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160542118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160545221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160548324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160551434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160554546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160557668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160560773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160563878 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160567045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160570153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160573278 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160576408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160579532 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160582634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160585747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160588866 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160592018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160595121 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160598224 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160601334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160604440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160607546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160610645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160613750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160616848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160619958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160623064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160626177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160629299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160632429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160635536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160638642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160641756 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160644858 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160647967 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160651104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160654204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160657304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160660407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160663508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160666611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160669751 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160672847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160675953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160679051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160682151 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160685269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160688365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160691488 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160694586 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160697684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160700783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160703886 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160706988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160710107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160713220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160716334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160719444 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160722554 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160725668 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160728784 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160731880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160734979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160738093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160741194 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160744307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160747457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160750565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160753689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160756787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160759921 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160763021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160766120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160769217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160772319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160775415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160778514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160781628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160784747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160787849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160790949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160794048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160797153 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160800253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160803360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160806459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160809617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160812730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160815832 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160818931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160822037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160825140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160828240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160831351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160834454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160837555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160840665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160843770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160846880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160849986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160853101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160856206 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160859317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160862435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160865547 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160868647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160871750 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160874853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160877962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160881058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.16.2): 1754160884170 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+common-techrepublic.gl.at.ply.gg:3611 => 127.0.0.1:3611 (minecraft-bedrock)
+sale-juice.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
