@@ -1,49 +1,48 @@
-[05:36:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[05:36:25] [ServerMain/INFO]: No existing world data, creating new world
-[05:36:26] [ServerMain/INFO]: Loaded 1407 recipes
-[05:36:26] [ServerMain/INFO]: Loaded 1520 advancements
-[05:36:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[05:36:27] [Server thread/INFO]: Loading properties
-[05:36:27] [Server thread/INFO]: Default game type: SURVIVAL
-[05:36:27] [Server thread/INFO]: Generating keypair
-[05:36:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:36:27] [Server thread/INFO]: Using epoll channel type
-[05:36:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:36:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:36:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:36:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:36:27] [Server thread/INFO]: Preparing level "world"
-[05:36:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:36:43] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:44] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:45] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:46] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:47] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:49] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:50] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:51] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[05:36:52] [Worker-Main-1/INFO]: Preparing spawn area: 38%
-[05:36:52] [Server thread/INFO]: Time elapsed: 9305 ms
-[05:36:52] [Server thread/INFO]: Done (25.350s)! For help, type "help"
-[05:37:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[05:41:46] [Server thread/INFO]: Stopping the server
-[05:41:46] [Server thread/INFO]: Stopping server
-[05:41:46] [Server thread/INFO]: Saving players
-[05:41:46] [Server thread/INFO]: Saving worlds
-[05:41:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:41:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[05:41:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[05:41:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:41:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:41:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:41:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:44:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[05:44:22] [ServerMain/INFO]: Loaded 1407 recipes
+[05:44:22] [ServerMain/INFO]: Loaded 1520 advancements
+[05:44:22] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[05:44:22] [Server thread/INFO]: Loading properties
+[05:44:22] [Server thread/INFO]: Default game type: SURVIVAL
+[05:44:22] [Server thread/INFO]: Generating keypair
+[05:44:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:44:23] [Server thread/INFO]: Using epoll channel type
+[05:44:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:44:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:44:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:44:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:44:23] [Server thread/INFO]: Preparing level "world"
+[05:44:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:44:33] [Server thread/INFO]: Time elapsed: 9986 ms
+[05:44:33] [Server thread/INFO]: Done (10.794s)! For help, type "help"
+[05:45:02] [Server thread/INFO]: Stopping the server
+[05:45:02] [Server thread/INFO]: Stopping server
+[05:45:02] [Server thread/INFO]: Saving players
+[05:45:02] [Server thread/INFO]: Saving worlds
+[05:45:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:45:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[05:45:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[05:45:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:45:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:45:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:45:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
