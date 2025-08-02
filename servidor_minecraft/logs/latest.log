@@ -110,3 +110,6 @@
 [21:55:31] [Server thread/INFO]: DylanTag24 joined the game
 [21:55:31] [Server thread/INFO]: DylanTag24[/127.214.211.88:41211] logged in with entity id 60 at ([world]132.44680327689858, 63.0, 584.9660240811315)
 [21:55:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
+[22:07:48] [Server thread/INFO]: Villager Villager['Villager'/167, uuid='a7e863af-1aa8-4a12-8c52-1dc826853afb', l='ServerLevel[world]', x=146.13, y=60.00, z=552.30, cpos=[9, 34], tl=14687, v=true] died, message: 'Villager was squished too much'
+[22:07:57] [Server thread/INFO]: Villager Villager['Villager'/192, uuid='96d6d606-edff-4cd5-9c19-efebfc13de47', l='ServerLevel[world]', x=146.12, y=60.00, z=552.70, cpos=[9, 34], tl=14868, v=true] died, message: 'Villager was squished too much'
+[22:07:59] [Server thread/INFO]: Villager Villager['Villager'/202, uuid='b1342bb6-9047-42f2-83a0-ac186bf75888', l='ServerLevel[world]', x=146.22, y=60.00, z=552.70, cpos=[9, 34], tl=14906, v=true] died, message: 'Villager was squished too much'
