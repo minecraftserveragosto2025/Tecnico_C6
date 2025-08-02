@@ -136,3 +136,7 @@
 [20:13:24] [Server thread/INFO]: DylanTag24 left the game
 [20:13:25] [Server thread/INFO]: DylanTag24 joined the game
 [20:13:25] [Server thread/INFO]: DylanTag24[/127.214.211.88:60401] logged in with entity id 13997 at ([world]175.4761853931565, 51.0, 603.6999999880791)
+[20:30:14] [Server thread/INFO]: Villager Villager['Librarian'/6097, uuid='32f679f6-35d7-497c-a31c-1ecb39d89d6d', l='ServerLevel[world]', x=174.32, y=56.00, z=600.30, cpos=[10, 37], tl=53249, v=true] died, message: 'Librarian was slain by DylanTag24'
+[20:34:50] [Netty Epoll Server IO #2/INFO]: Disconnecting DylanTag24 for sending keepalive response (6192693) out-of-order!
+[20:34:50] [Server thread/INFO]: DylanTag24 lost connection: Timed out
+[20:34:50] [Server thread/INFO]: DylanTag24 left the game
